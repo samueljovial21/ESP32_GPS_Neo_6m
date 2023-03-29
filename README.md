@@ -11,5 +11,5 @@ GND : GND pin at ESP32 <br/>
 
 # Output
 Even the GPS LED's not blinking, It'll still show some raw data. <br/>
-This output show's if your GPS module's ready to use.
+This output example's showing if your GPS module ready to use.
 <img src="./Serial_Monitor_Output.PNG">
