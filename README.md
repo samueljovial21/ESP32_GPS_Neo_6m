@@ -3,7 +3,7 @@ Getting started using GPS Ublox Neo 6m on ESP32 Development Board. <br/>
 This tutorial's gonna show us how to get started GPS module by reading its raw data to display.
 
 # Wiring Diagram
-VCC : VIN pin at ESP32 <br/>
+VCC : 3v3 pin at ESP32 <br/>
 RX  : TX2 pin at ESP32 <br/>
 TX  : RX2 pin at ESP32 <br/>
 GND : GND pin at ESP32 <br/>
